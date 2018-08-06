@@ -1,0 +1,1731 @@
+{
+  "expected" : {
+    "photoCount" : 36,
+    "warningState" : "grid_status_ok",
+    "flightTime" : 224.0882706805054
+  },
+  "actual" : {
+    "photos" : [
+      {
+        "pose" : {
+          "orientation" : [
+            96.40000000000001,
+            14,
+            3.8
+          ],
+          "cameraOrientation" : [
+            195.6548499256821,
+            85,
+            0
+          ],
+          "velocity" : [
+            -0.2000000029802322,
+            0.300000011920929,
+            3.5
+          ],
+          "time" : 1508730265.426307,
+          "location" : [
+            147.3975635190363,
+            -42.88071830936411,
+            49.6
+          ]
+        },
+        "mediaDescriptor" : {
+          "mediaId" : "DJI_0979.jpg",
+          "mediaMetaData" : {
+            "timeCreated" : "2017-10-23 14:44:24"
+          }
+        },
+        "source" : "Telemetry"
+      },
+      {
+        "pose" : {
+          "orientation" : [
+            -164.5,
+            -8.1,
+            2
+          ],
+          "cameraOrientation" : [
+            195.6548499256821,
+            85,
+            0
+          ],
+          "velocity" : [
+            -5.099999904632568,
+            -0,
+            -1.5
+          ],
+          "time" : 1508730274.326682,
+          "location" : [
+            147.397501530045,
+            -42.88086616926508,
+            50
+          ]
+        },
+        "mediaDescriptor" : {
+          "mediaId" : "DJI_0980.jpg",
+          "mediaMetaData" : {
+            "timeCreated" : "2017-10-23 14:44:34"
+          }
+        },
+        "source" : "Telemetry"
+      },
+      {
+        "pose" : {
+          "orientation" : [
+            -164.5,
+            -6.600000000000001,
+            1.9
+          ],
+          "cameraOrientation" : [
+            195.6548499256821,
+            85,
+            0
+          ],
+          "velocity" : [
+            -5.199999809265137,
+            -0,
+            -1.5
+          ],
+          "time" : 1508730276.842951,
+          "location" : [
+            147.3974543919185,
+            -42.88098416890957,
+            49.90000000000001
+          ]
+        },
+        "mediaDescriptor" : {
+          "mediaId" : "DJI_0981.jpg",
+          "mediaMetaData" : {
+            "timeCreated" : "2017-10-23 14:44:36"
+          }
+        },
+        "source" : "Telemetry"
+      },
+      {
+        "pose" : {
+          "orientation" : [
+            -164.3,
+            7,
+            1.6
+          ],
+          "cameraOrientation" : [
+            195.6548499256821,
+            85,
+            0
+          ],
+          "velocity" : [
+            -0.800000011920929,
+            0.1000000014901161,
+            -0.300000011920929
+          ],
+          "time" : 1508730281.127383,
+          "location" : [
+            147.3974029259198,
+            -42.88111275858594,
+            49.90000000000001
+          ]
+        },
+        "mediaDescriptor" : {
+          "mediaId" : "DJI_0982.jpg",
+          "mediaMetaData" : {
+            "timeCreated" : "2017-10-23 14:44:40"
+          }
+        },
+        "source" : "Telemetry"
+      },
+      {
+        "pose" : {
+          "orientation" : [
+            7,
+            3.7,
+            0
+          ],
+          "cameraOrientation" : [
+            15.65484992568207,
+            85,
+            0
+          ],
+          "velocity" : [
+            0.1000000014901161,
+            -0,
+            0
+          ],
+          "time" : 1508730290.327494,
+          "location" : [
+            147.3972677311187,
+            -42.88108825172837,
+            49.8
+          ]
+        },
+        "mediaDescriptor" : {
+          "mediaId" : "DJI_0983.jpg",
+          "mediaMetaData" : {
+            "timeCreated" : "2017-10-23 14:44:50"
+          }
+        },
+        "source" : "Telemetry"
+      },
+      {
+        "pose" : {
+          "orientation" : [
+            15.8,
+            -7.7,
+            1.8
+          ],
+          "cameraOrientation" : [
+            15.65484992568207,
+            85,
+            0
+          ],
+          "velocity" : [
+            5.300000190734863,
+            -0,
+            1.5
+          ],
+          "time" : 1508730294.938468,
+          "location" : [
+            147.3973143191801,
+            -42.88095961101006,
+            49.90000000000001
+          ]
+        },
+        "mediaDescriptor" : {
+          "mediaId" : "DJI_0984.jpg",
+          "mediaMetaData" : {
+            "timeCreated" : "2017-10-23 14:44:54"
+          }
+        },
+        "source" : "Telemetry"
+      },
+      {
+        "pose" : {
+          "orientation" : [
+            15.6,
+            -5.800000000000001,
+            0
+          ],
+          "cameraOrientation" : [
+            15.65484992568207,
+            85,
+            0
+          ],
+          "velocity" : [
+            4.900000095367432,
+            -0,
+            1.399999976158142
+          ],
+          "time" : 1508730297.728258,
+          "location" : [
+            147.3973693211181,
+            -42.88082653896995,
+            49.90000000000001
+          ]
+        },
+        "mediaDescriptor" : {
+          "mediaId" : "DJI_0985.jpg",
+          "mediaMetaData" : {
+            "timeCreated" : "2017-10-23 14:44:58"
+          }
+        },
+        "source" : "Telemetry"
+      },
+      {
+        "pose" : {
+          "orientation" : [
+            15.4,
+            9.4,
+            -1
+          ],
+          "cameraOrientation" : [
+            15.65484992568207,
+            85,
+            0
+          ],
+          "velocity" : [
+            1.100000023841858,
+            -0,
+            0.1000000014901161
+          ],
+          "time" : 1508730301.84548,
+          "location" : [
+            147.397421084763,
+            -42.88069792993139,
+            49.90000000000001
+          ]
+        },
+        "mediaDescriptor" : {
+          "mediaId" : "DJI_0986.jpg",
+          "mediaMetaData" : {
+            "timeCreated" : "2017-10-23 14:45:02"
+          }
+        },
+        "source" : "Telemetry"
+      },
+      {
+        "pose" : {
+          "orientation" : [
+            -157.2,
+            0,
+            1.1
+          ],
+          "cameraOrientation" : [
+            195.6548499256821,
+            85,
+            0
+          ],
+          "velocity" : [
+            -0.1000000014901161,
+            -0,
+            0
+          ],
+          "time" : 1508730313.527517,
+          "location" : [
+            147.3972859067622,
+            -42.88066974488945,
+            50
+          ]
+        },
+        "mediaDescriptor" : {
+          "mediaId" : "DJI_0987.jpg",
+          "mediaMetaData" : {
+            "timeCreated" : "2017-10-23 14:45:12"
+          }
+        },
+        "source" : "Telemetry"
+      },
+      {
+        "pose" : {
+          "orientation" : [
+            -164.5,
+            -6.2,
+            0.1
+          ],
+          "cameraOrientation" : [
+            195.6548499256821,
+            85,
+            0
+          ],
+          "velocity" : [
+            -5.300000190734863,
+            -0,
+            -1.299999952316284
+          ],
+          "time" : 1508730318.029625,
+          "location" : [
+            147.39723665661,
+            -42.88079593398695,
+            50
+          ]
+        },
+        "mediaDescriptor" : {
+          "mediaId" : "DJI_0988.jpg",
+          "mediaMetaData" : {
+            "timeCreated" : "2017-10-23 14:45:18"
+          }
+        },
+        "source" : "Telemetry"
+      },
+      {
+        "pose" : {
+          "orientation" : [
+            -164.4,
+            -7,
+            1.3
+          ],
+          "cameraOrientation" : [
+            195.6548499256821,
+            85,
+            0
+          ],
+          "velocity" : [
+            -4.900000095367432,
+            -0,
+            -1.299999952316284
+          ],
+          "time" : 1508730320.929336,
+          "location" : [
+            147.3971869867992,
+            -42.88093156761507,
+            49.90000000000001
+          ]
+        },
+        "mediaDescriptor" : {
+          "mediaId" : "DJI_0989.jpg",
+          "mediaMetaData" : {
+            "timeCreated" : "2017-10-23 14:45:20"
+          }
+        },
+        "source" : "Telemetry"
+      },
+      {
+        "pose" : {
+          "orientation" : [
+            -164.4,
+            6.9,
+            0.2
+          ],
+          "cameraOrientation" : [
+            195.6548499256821,
+            85,
+            0
+          ],
+          "velocity" : [
+            -1,
+            0.1000000014901161,
+            -0.300000011920929
+          ],
+          "time" : 1508730325.035372,
+          "location" : [
+            147.3971387315901,
+            -42.88105747233903,
+            49.90000000000001
+          ]
+        },
+        "mediaDescriptor" : {
+          "mediaId" : "DJI_0990.jpg",
+          "mediaMetaData" : {
+            "timeCreated" : "2017-10-23 14:45:24"
+          }
+        },
+        "source" : "Telemetry"
+      },
+      {
+        "pose" : {
+          "orientation" : [
+            5.7,
+            2.5,
+            0.2
+          ],
+          "cameraOrientation" : [
+            15.65484992568207,
+            85,
+            0
+          ],
+          "velocity" : [
+            0.1000000014901161,
+            -0,
+            0
+          ],
+          "time" : 1508730334.13111,
+          "location" : [
+            147.3970042848271,
+            -42.88103443764695,
+            49.90000000000001
+          ]
+        },
+        "mediaDescriptor" : {
+          "mediaId" : "DJI_0991.jpg",
+          "mediaMetaData" : {
+            "timeCreated" : "2017-10-23 14:45:34"
+          }
+        },
+        "source" : "Telemetry"
+      },
+      {
+        "pose" : {
+          "orientation" : [
+            15.9,
+            -7.7,
+            1.9
+          ],
+          "cameraOrientation" : [
+            15.65484992568207,
+            85,
+            0
+          ],
+          "velocity" : [
+            5.400000095367432,
+            -0,
+            1.5
+          ],
+          "time" : 1508730338.730349,
+          "location" : [
+            147.3970519186839,
+            -42.88090440085708,
+            50.1
+          ]
+        },
+        "mediaDescriptor" : {
+          "mediaId" : "DJI_0992.jpg",
+          "mediaMetaData" : {
+            "timeCreated" : "2017-10-23 14:45:38"
+          }
+        },
+        "source" : "Telemetry"
+      },
+      {
+        "pose" : {
+          "orientation" : [
+            15.7,
+            -5,
+            2
+          ],
+          "cameraOrientation" : [
+            15.65484992568207,
+            85,
+            0
+          ],
+          "velocity" : [
+            5.099999904632568,
+            -0,
+            1.399999976158142
+          ],
+          "time" : 1508730341.62962,
+          "location" : [
+            147.3971044581219,
+            -42.88077169836302,
+            50
+          ]
+        },
+        "mediaDescriptor" : {
+          "mediaId" : "DJI_0993.jpg",
+          "mediaMetaData" : {
+            "timeCreated" : "2017-10-23 14:45:42"
+          }
+        },
+        "source" : "Telemetry"
+      },
+      {
+        "pose" : {
+          "orientation" : [
+            15.6,
+            10.7,
+            -0.8
+          ],
+          "cameraOrientation" : [
+            15.65484992568207,
+            85,
+            0
+          ],
+          "velocity" : [
+            1.100000023841858,
+            -0,
+            0.1000000014901161
+          ],
+          "time" : 1508730345.631605,
+          "location" : [
+            147.397157588626,
+            -42.88064344561172,
+            49.90000000000001
+          ]
+        },
+        "mediaDescriptor" : {
+          "mediaId" : "DJI_0994.jpg",
+          "mediaMetaData" : {
+            "timeCreated" : "2017-10-23 14:45:44"
+          }
+        },
+        "source" : "Telemetry"
+      },
+      {
+        "pose" : {
+          "orientation" : [
+            -156.6,
+            0.5,
+            -1
+          ],
+          "cameraOrientation" : [
+            195.6548499256821,
+            85,
+            0
+          ],
+          "velocity" : [
+            -0.1000000014901161,
+            -0,
+            0
+          ],
+          "time" : 1508730358.633311,
+          "location" : [
+            147.3970213358121,
+            -42.88061562862907,
+            49.8
+          ]
+        },
+        "mediaDescriptor" : {
+          "mediaId" : "DJI_0995.jpg",
+          "mediaMetaData" : {
+            "timeCreated" : "2017-10-23 14:45:58"
+          }
+        },
+        "source" : "Telemetry"
+      },
+      {
+        "pose" : {
+          "orientation" : [
+            -164.5,
+            -6.5,
+            0.4
+          ],
+          "cameraOrientation" : [
+            195.6548499256821,
+            85,
+            0
+          ],
+          "velocity" : [
+            -5.400000095367432,
+            -0.2000000029802322,
+            -1.399999976158142
+          ],
+          "time" : 1508730363.125666,
+          "location" : [
+            147.3969733939857,
+            -42.88074460803117,
+            50
+          ]
+        },
+        "mediaDescriptor" : {
+          "mediaId" : "DJI_0996.jpg",
+          "mediaMetaData" : {
+            "timeCreated" : "2017-10-23 14:46:02"
+          }
+        },
+        "source" : "Telemetry"
+      },
+      {
+        "pose" : {
+          "orientation" : [
+            -164.4,
+            -8,
+            0.1
+          ],
+          "cameraOrientation" : [
+            195.6548499256821,
+            85,
+            0
+          ],
+          "velocity" : [
+            -4.699999809265137,
+            0.1000000014901161,
+            -1.200000047683716
+          ],
+          "time" : 1508730365.937109,
+          "location" : [
+            147.3969249381205,
+            -42.88087511597548,
+            50
+          ]
+        },
+        "mediaDescriptor" : {
+          "mediaId" : "DJI_0997.jpg",
+          "mediaMetaData" : {
+            "timeCreated" : "2017-10-23 14:46:06"
+          }
+        },
+        "source" : "Telemetry"
+      },
+      {
+        "pose" : {
+          "orientation" : [
+            -164.3,
+            3.1,
+            0.3
+          ],
+          "cameraOrientation" : [
+            195.6548499256821,
+            85,
+            0
+          ],
+          "velocity" : [
+            -0.800000011920929,
+            0.1000000014901161,
+            -0.2000000029802322
+          ],
+          "time" : 1508730370.335716,
+          "location" : [
+            147.3968752974924,
+            -42.88100317574313,
+            49.8
+          ]
+        },
+        "mediaDescriptor" : {
+          "mediaId" : "DJI_0998.jpg",
+          "mediaMetaData" : {
+            "timeCreated" : "2017-10-23 14:46:10"
+          }
+        },
+        "source" : "Telemetry"
+      },
+      {
+        "pose" : {
+          "orientation" : [
+            6.100000000000001,
+            3.4,
+            0.7000000000000001
+          ],
+          "cameraOrientation" : [
+            15.65484992568207,
+            85,
+            0
+          ],
+          "velocity" : [
+            0.1000000014901161,
+            -0,
+            0
+          ],
+          "time" : 1508730379.234681,
+          "location" : [
+            147.3967408521908,
+            -42.88098062239305,
+            49.8
+          ]
+        },
+        "mediaDescriptor" : {
+          "mediaId" : "DJI_0000.jpg",
+          "mediaMetaData" : {
+            "timeCreated" : "2017-10-23 14:46:18"
+          }
+        },
+        "source" : "Telemetry"
+      },
+      {
+        "pose" : {
+          "orientation" : [
+            16,
+            -7.5,
+            2.4
+          ],
+          "cameraOrientation" : [
+            15.65484992568207,
+            85,
+            0
+          ],
+          "velocity" : [
+            5.300000190734863,
+            -0.1000000014901161,
+            1.5
+          ],
+          "time" : 1508730383.938737,
+          "location" : [
+            147.3967892026013,
+            -42.88084973668881,
+            50.1
+          ]
+        },
+        "mediaDescriptor" : {
+          "mediaId" : "DJI_0001.jpg",
+          "mediaMetaData" : {
+            "timeCreated" : "2017-10-23 14:46:24"
+          }
+        },
+        "source" : "Telemetry"
+      },
+      {
+        "pose" : {
+          "orientation" : [
+            15.6,
+            -5.9,
+            1.5
+          ],
+          "cameraOrientation" : [
+            15.65484992568207,
+            85,
+            0
+          ],
+          "velocity" : [
+            5,
+            -0,
+            1.399999976158142
+          ],
+          "time" : 1508730386.850041,
+          "location" : [
+            147.3968424627083,
+            -42.88071729668038,
+            50
+          ]
+        },
+        "mediaDescriptor" : {
+          "mediaId" : "DJI_0002.jpg",
+          "mediaMetaData" : {
+            "timeCreated" : "2017-10-23 14:46:26"
+          }
+        },
+        "source" : "Telemetry"
+      },
+      {
+        "pose" : {
+          "orientation" : [
+            15.4,
+            9.700000000000001,
+            0.1
+          ],
+          "cameraOrientation" : [
+            15.65484992568207,
+            85,
+            0
+          ],
+          "velocity" : [
+            1,
+            0.1000000014901161,
+            0.1000000014901161
+          ],
+          "time" : 1508730390.925485,
+          "location" : [
+            147.3968932329402,
+            -42.88058950569066,
+            49.8
+          ]
+        },
+        "mediaDescriptor" : {
+          "mediaId" : "DJI_0003.jpg",
+          "mediaMetaData" : {
+            "timeCreated" : "2017-10-23 14:46:30"
+          }
+        },
+        "source" : "Telemetry"
+      },
+      {
+        "pose" : {
+          "orientation" : [
+            -155,
+            -0.6000000000000001,
+            -2.1
+          ],
+          "cameraOrientation" : [
+            195.6548499256821,
+            85,
+            0
+          ],
+          "velocity" : [
+            0,
+            -0,
+            0
+          ],
+          "time" : 1508730401.525708,
+          "location" : [
+            147.3967561787471,
+            -42.8805535817015,
+            50.1
+          ]
+        },
+        "mediaDescriptor" : {
+          "mediaId" : "DJI_0004.jpg",
+          "mediaMetaData" : {
+            "timeCreated" : "2017-10-23 14:46:40"
+          }
+        },
+        "source" : "Telemetry"
+      },
+      {
+        "pose" : {
+          "orientation" : [
+            -164.4,
+            -4.9,
+            0.8
+          ],
+          "cameraOrientation" : [
+            195.6548499256821,
+            85,
+            0
+          ],
+          "velocity" : [
+            -5.300000190734863,
+            0.1000000014901161,
+            -1.399999976158142
+          ],
+          "time" : 1508730406.125385,
+          "location" : [
+            147.3967069594933,
+            -42.88070047560461,
+            49.8
+          ]
+        },
+        "mediaDescriptor" : {
+          "mediaId" : "DJI_0005.jpg",
+          "mediaMetaData" : {
+            "timeCreated" : "2017-10-23 14:46:46"
+          }
+        },
+        "source" : "Telemetry"
+      },
+      {
+        "pose" : {
+          "orientation" : [
+            -164.4,
+            -6.4,
+            0.8
+          ],
+          "cameraOrientation" : [
+            195.6548499256821,
+            85,
+            0
+          ],
+          "velocity" : [
+            -4.699999809265137,
+            -0,
+            -1.299999952316284
+          ],
+          "time" : 1508730408.733593,
+          "location" : [
+            147.3966622622556,
+            -42.88081969917947,
+            50
+          ]
+        },
+        "mediaDescriptor" : {
+          "mediaId" : "DJI_0006.jpg",
+          "mediaMetaData" : {
+            "timeCreated" : "2017-10-23 14:46:48"
+          }
+        },
+        "source" : "Telemetry"
+      }
+    ],
+    "photosInfo" : {
+
+    },
+    "flightTime" : 226.149218082428
+  },
+  "devInfo" : {
+    "missionState" : 2,
+    "inChina" : false
+  },
+  "captureDevice" : {
+    "vendor" : "DJI",
+    "camera" : {
+      "name" : "Phantom 4 Camera",
+      "settings" : {
+        "whiteBalance" : "Auto"
+      },
+      "parameters" : {
+        "focalLength" : 3.61,
+        "imageWidth" : 4000,
+        "imageHeight" : 3000,
+        "photoIntervalMin" : 2,
+        "lensType" : "Perspective",
+        "sensorWidth" : 6.3175
+      }
+    },
+    "speed" : {
+      "min" : 2,
+      "max" : 15
+    },
+    "firmware" : "02.00.0106",
+    "accessories" : {
+      "remoteController" : "default"
+    },
+    "type" : "Copter",
+    "name" : "Phantom 4"
+  },
+  "metaData" : {
+    "modifiedBy" : "simonallen00@gmail.com",
+    "executedAt" : "2017-10-23T03:43:56.703Z",
+    "modifiedAt" : "2017-10-23T03:47:46.945Z",
+    "uuid" : "FE7B650F-407A-4276-BFEC-5949A1F27040",
+    "version" : "1.0.0",
+    "createdAt" : "2017-10-23T03:43:56.673Z",
+    "createdBy" : "simonallen00@gmail.com",
+    "name" : "Mission00001",
+    "executedBy" : "simonallen00@gmail.com"
+  },
+  "appInfo" : {
+    "platform" : "iOS 10.3.3",
+    "language" : "en_AU",
+    "country" : "au",
+    "version" : "iOS-2.4.0(32)"
+  },
+  "flightPlan" : {
+    "waypoints" : [
+      {
+        "flags" : [
+          "TakePhoto",
+          "BeginCapture"
+        ],
+        "orientation" : [
+          195.6548499256821,
+          85,
+          0
+        ],
+        "cameraOrientation" : [
+          195.6548499256821,
+          85,
+          0
+        ],
+        "location" : [
+          147.3975512265857,
+          -42.88072116184476,
+          50
+        ],
+        "radius" : 0
+      },
+      {
+        "flags" : [
+          "TakePhoto"
+        ],
+        "orientation" : [
+          195.6548499256821,
+          85,
+          0
+        ],
+        "cameraOrientation" : [
+          195.6548499256821,
+          85,
+          0
+        ],
+        "location" : [
+          147.3975009784949,
+          -42.88085255162276,
+          50
+        ],
+        "radius" : 0
+      },
+      {
+        "flags" : [
+          "TakePhoto"
+        ],
+        "orientation" : [
+          195.6548499256821,
+          85,
+          0
+        ],
+        "cameraOrientation" : [
+          195.6548499256821,
+          85,
+          0
+        ],
+        "location" : [
+          147.3974507302972,
+          -42.88098394140075,
+          50
+        ],
+        "radius" : 0
+      },
+      {
+        "flags" : [
+          "TakePhoto",
+          "EndCapture"
+        ],
+        "orientation" : [
+          195.6548499256821,
+          85,
+          0
+        ],
+        "cameraOrientation" : [
+          195.6548499256821,
+          85,
+          0
+        ],
+        "location" : [
+          147.3974004819923,
+          -42.88111533117875,
+          50
+        ],
+        "radius" : 0
+      },
+      {
+        "flags" : [
+          "TakePhoto",
+          "BeginCapture"
+        ],
+        "orientation" : [
+          15.65484992568207,
+          85,
+          0
+        ],
+        "cameraOrientation" : [
+          15.65484992568207,
+          85,
+          0
+        ],
+        "location" : [
+          147.397268666585,
+          -42.88108826297413,
+          50
+        ],
+        "radius" : 0
+      },
+      {
+        "flags" : [
+          "TakePhoto"
+        ],
+        "orientation" : [
+          15.65484992568207,
+          85,
+          0
+        ],
+        "cameraOrientation" : [
+          15.65484992568207,
+          85,
+          0
+        ],
+        "location" : [
+          147.3973189147607,
+          -42.88095687317418,
+          50
+        ],
+        "radius" : 0
+      },
+      {
+        "flags" : [
+          "TakePhoto"
+        ],
+        "orientation" : [
+          15.65484992568207,
+          85,
+          0
+        ],
+        "cameraOrientation" : [
+          15.65484992568207,
+          85,
+          0
+        ],
+        "location" : [
+          147.3973691628294,
+          -42.88082548337422,
+          50
+        ],
+        "radius" : 0
+      },
+      {
+        "flags" : [
+          "TakePhoto",
+          "EndCapture"
+        ],
+        "orientation" : [
+          15.65484992568207,
+          85,
+          0
+        ],
+        "cameraOrientation" : [
+          15.65484992568207,
+          85,
+          0
+        ],
+        "location" : [
+          147.3974194107912,
+          -42.88069409357425,
+          50
+        ],
+        "radius" : 0
+      },
+      {
+        "flags" : [
+          "TakePhoto",
+          "BeginCapture"
+        ],
+        "orientation" : [
+          195.6548499256821,
+          85,
+          0
+        ],
+        "cameraOrientation" : [
+          195.6548499256821,
+          85,
+          0
+        ],
+        "location" : [
+          147.3972875962837,
+          -42.88066702536964,
+          50
+        ],
+        "radius" : 0
+      },
+      {
+        "flags" : [
+          "TakePhoto"
+        ],
+        "orientation" : [
+          195.6548499256821,
+          85,
+          0
+        ],
+        "cameraOrientation" : [
+          195.6548499256821,
+          85,
+          0
+        ],
+        "location" : [
+          147.397237348237,
+          -42.88079841514763,
+          50
+        ],
+        "radius" : 0
+      },
+      {
+        "flags" : [
+          "TakePhoto"
+        ],
+        "orientation" : [
+          195.6548499256821,
+          85,
+          0
+        ],
+        "cameraOrientation" : [
+          195.6548499256821,
+          85,
+          0
+        ],
+        "location" : [
+          147.3971871000834,
+          -42.88092980492562,
+          50
+        ],
+        "radius" : 0
+      },
+      {
+        "flags" : [
+          "TakePhoto",
+          "EndCapture"
+        ],
+        "orientation" : [
+          195.6548499256821,
+          85,
+          0
+        ],
+        "cameraOrientation" : [
+          195.6548499256821,
+          85,
+          0
+        ],
+        "location" : [
+          147.3971368518226,
+          -42.88106119470361,
+          50
+        ],
+        "radius" : 0
+      },
+      {
+        "flags" : [
+          "TakePhoto",
+          "BeginCapture"
+        ],
+        "orientation" : [
+          15.65484992568207,
+          85,
+          0
+        ],
+        "cameraOrientation" : [
+          15.65484992568207,
+          85,
+          0
+        ],
+        "location" : [
+          147.3970050365309,
+          -42.881034126499,
+          50
+        ],
+        "radius" : 0
+      },
+      {
+        "flags" : [
+          "TakePhoto"
+        ],
+        "orientation" : [
+          15.65484992568207,
+          85,
+          0
+        ],
+        "cameraOrientation" : [
+          15.65484992568207,
+          85,
+          0
+        ],
+        "location" : [
+          147.3970552846626,
+          -42.88090273669903,
+          50
+        ],
+        "radius" : 0
+      },
+      {
+        "flags" : [
+          "TakePhoto"
+        ],
+        "orientation" : [
+          15.65484992568207,
+          85,
+          0
+        ],
+        "cameraOrientation" : [
+          15.65484992568207,
+          85,
+          0
+        ],
+        "location" : [
+          147.3971055326872,
+          -42.88077134689907,
+          50
+        ],
+        "radius" : 0
+      },
+      {
+        "flags" : [
+          "TakePhoto",
+          "EndCapture"
+        ],
+        "orientation" : [
+          15.65484992568207,
+          85,
+          0
+        ],
+        "cameraOrientation" : [
+          15.65484992568207,
+          85,
+          0
+        ],
+        "location" : [
+          147.3971557806049,
+          -42.88063995709912,
+          50
+        ],
+        "radius" : 0
+      },
+      {
+        "flags" : [
+          "TakePhoto",
+          "BeginCapture"
+        ],
+        "orientation" : [
+          195.6548499256821,
+          85,
+          0
+        ],
+        "cameraOrientation" : [
+          195.6548499256821,
+          85,
+          0
+        ],
+        "location" : [
+          147.3970239662131,
+          -42.88061288889451,
+          50
+        ],
+        "radius" : 0
+      },
+      {
+        "flags" : [
+          "TakePhoto"
+        ],
+        "orientation" : [
+          195.6548499256821,
+          85,
+          0
+        ],
+        "cameraOrientation" : [
+          195.6548499256821,
+          85,
+          0
+        ],
+        "location" : [
+          147.3969737182105,
+          -42.8807442786725,
+          50
+        ],
+        "radius" : 0
+      },
+      {
+        "flags" : [
+          "TakePhoto"
+        ],
+        "orientation" : [
+          195.6548499256821,
+          85,
+          0
+        ],
+        "cameraOrientation" : [
+          195.6548499256821,
+          85,
+          0
+        ],
+        "location" : [
+          147.3969234701009,
+          -42.88087566845049,
+          50
+        ],
+        "radius" : 0
+      },
+      {
+        "flags" : [
+          "TakePhoto",
+          "EndCapture"
+        ],
+        "orientation" : [
+          195.6548499256821,
+          85,
+          0
+        ],
+        "cameraOrientation" : [
+          195.6548499256821,
+          85,
+          0
+        ],
+        "location" : [
+          147.3968732218843,
+          -42.88100705822848,
+          50
+        ],
+        "radius" : 0
+      },
+      {
+        "flags" : [
+          "TakePhoto",
+          "BeginCapture"
+        ],
+        "orientation" : [
+          15.65484992568207,
+          85,
+          0
+        ],
+        "cameraOrientation" : [
+          15.65484992568207,
+          85,
+          0
+        ],
+        "location" : [
+          147.3967414067083,
+          -42.88097999002387,
+          50
+        ],
+        "radius" : 0
+      },
+      {
+        "flags" : [
+          "TakePhoto"
+        ],
+        "orientation" : [
+          15.65484992568207,
+          85,
+          0
+        ],
+        "cameraOrientation" : [
+          15.65484992568207,
+          85,
+          0
+        ],
+        "location" : [
+          147.3967916547958,
+          -42.88084860022391,
+          50
+        ],
+        "radius" : 0
+      },
+      {
+        "flags" : [
+          "TakePhoto"
+        ],
+        "orientation" : [
+          15.65484992568207,
+          85,
+          0
+        ],
+        "cameraOrientation" : [
+          15.65484992568207,
+          85,
+          0
+        ],
+        "location" : [
+          147.3968419027764,
+          -42.88071721042395,
+          50
+        ],
+        "radius" : 0
+      },
+      {
+        "flags" : [
+          "TakePhoto",
+          "EndCapture"
+        ],
+        "orientation" : [
+          15.65484992568207,
+          85,
+          0
+        ],
+        "cameraOrientation" : [
+          15.65484992568207,
+          85,
+          0
+        ],
+        "location" : [
+          147.3968921506499,
+          -42.88058582062398,
+          50
+        ],
+        "radius" : 0
+      },
+      {
+        "flags" : [
+          "TakePhoto",
+          "BeginCapture"
+        ],
+        "orientation" : [
+          195.6548499256821,
+          85,
+          0
+        ],
+        "cameraOrientation" : [
+          195.6548499256821,
+          85,
+          0
+        ],
+        "location" : [
+          147.3967603363739,
+          -42.88055875241936,
+          50
+        ],
+        "radius" : 0
+      },
+      {
+        "flags" : [
+          "TakePhoto"
+        ],
+        "orientation" : [
+          195.6548499256821,
+          85,
+          0
+        ],
+        "cameraOrientation" : [
+          195.6548499256821,
+          85,
+          0
+        ],
+        "location" : [
+          147.3967100884153,
+          -42.88069014219735,
+          50
+        ],
+        "radius" : 0
+      },
+      {
+        "flags" : [
+          "TakePhoto"
+        ],
+        "orientation" : [
+          195.6548499256821,
+          85,
+          0
+        ],
+        "cameraOrientation" : [
+          195.6548499256821,
+          85,
+          0
+        ],
+        "location" : [
+          147.3966598403498,
+          -42.88082153197534,
+          50
+        ],
+        "radius" : 0
+      },
+      {
+        "flags" : [
+          "TakePhoto",
+          "EndCapture"
+        ],
+        "orientation" : [
+          195.6548499256821,
+          85,
+          0
+        ],
+        "cameraOrientation" : [
+          195.6548499256821,
+          85,
+          0
+        ],
+        "location" : [
+          147.3966095921773,
+          -42.88095292175333,
+          50
+        ],
+        "radius" : 0
+      },
+      {
+        "flags" : [
+          "TakePhoto",
+          "BeginCapture"
+        ],
+        "orientation" : [
+          15.65484992568207,
+          85,
+          0
+        ],
+        "cameraOrientation" : [
+          15.65484992568207,
+          85,
+          0
+        ],
+        "location" : [
+          147.3964777771169,
+          -42.88092585354872,
+          50
+        ],
+        "radius" : 0
+      },
+      {
+        "flags" : [
+          "TakePhoto"
+        ],
+        "orientation" : [
+          15.65484992568207,
+          85,
+          0
+        ],
+        "cameraOrientation" : [
+          15.65484992568207,
+          85,
+          0
+        ],
+        "location" : [
+          147.3965280251604,
+          -42.88079446374877,
+          50
+        ],
+        "radius" : 0
+      },
+      {
+        "flags" : [
+          "TakePhoto"
+        ],
+        "orientation" : [
+          15.65484992568207,
+          85,
+          0
+        ],
+        "cameraOrientation" : [
+          15.65484992568207,
+          85,
+          0
+        ],
+        "location" : [
+          147.3965782730969,
+          -42.88066307394882,
+          50
+        ],
+        "radius" : 0
+      },
+      {
+        "flags" : [
+          "TakePhoto",
+          "EndCapture"
+        ],
+        "orientation" : [
+          15.65484992568207,
+          85,
+          0
+        ],
+        "cameraOrientation" : [
+          15.65484992568207,
+          85,
+          0
+        ],
+        "location" : [
+          147.3966285209264,
+          -42.88053168414886,
+          50
+        ],
+        "radius" : 0
+      },
+      {
+        "flags" : [
+          "TakePhoto",
+          "BeginCapture"
+        ],
+        "orientation" : [
+          195.6548499256821,
+          85,
+          0
+        ],
+        "cameraOrientation" : [
+          195.6548499256821,
+          85,
+          0
+        ],
+        "location" : [
+          147.3964967067659,
+          -42.88050461594424,
+          50
+        ],
+        "radius" : 0
+      },
+      {
+        "flags" : [
+          "TakePhoto"
+        ],
+        "orientation" : [
+          195.6548499256821,
+          85,
+          0
+        ],
+        "cameraOrientation" : [
+          195.6548499256821,
+          85,
+          0
+        ],
+        "location" : [
+          147.3964464588515,
+          -42.88063600572224,
+          50
+        ],
+        "radius" : 0
+      },
+      {
+        "flags" : [
+          "TakePhoto"
+        ],
+        "orientation" : [
+          195.6548499256821,
+          85,
+          0
+        ],
+        "cameraOrientation" : [
+          195.6548499256821,
+          85,
+          0
+        ],
+        "location" : [
+          147.39639621083,
+          -42.88076739550023,
+          50
+        ],
+        "radius" : 0
+      },
+      {
+        "flags" : [
+          "TakePhoto",
+          "EndCapture"
+        ],
+        "orientation" : [
+          195.6548499256821,
+          85,
+          0
+        ],
+        "cameraOrientation" : [
+          195.6548499256821,
+          85,
+          0
+        ],
+        "location" : [
+          147.3963459627016,
+          -42.88089878527822,
+          50
+        ],
+        "radius" : 0
+      }
+    ]
+  },
+  "homeCoordinate" : [
+    147.3972003256412,
+    -42.88065070290386
+  ],
+  "missionPlan" : {
+    "surveyRegion" : {
+      "size" : {
+        "width" : 99.23270576353826,
+        "height" : 55.51814370181611
+      },
+      "regionType" : "Rectangle",
+      "centerCoordinate" : [
+        147.39694859625,
+        -42.88080997524658
+      ],
+      "rotation" : 15.65484992672988
+    },
+    "missionType" : "Grid",
+    "speedPercent" : 25,
+    "sideOverlap" : 0.86,
+    "frontOverlap" : 0.75,
+    "cameraHeadingType" : "Forward",
+    "cameraPitch" : 85,
+    "photoTriggerType" : "App",
+    "altitude" : 50
+  }
+}
